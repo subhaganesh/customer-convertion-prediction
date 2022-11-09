@@ -2,7 +2,7 @@
 # Customer_conversion_Prediction
 
 This project was build to find the conversion of customers of the new age company were they employ multiple outreach plans to sell term insurance to customers via telephonic calls,but the cost is high for that process.The historical marketing data of the company was provided to find whether the customer subscribe to the insurance or not.
-## Screenshots
+
 
 ![App Screenshot](https://www.shutterstock.com/image-illustration/3d-illustration-conversion-funnel-entry-600w-539917381.jpg)
 
